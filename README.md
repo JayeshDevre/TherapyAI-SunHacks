@@ -11,7 +11,7 @@
 
 ## 🎯 Project Overview
 
-**Therapy AI** is a sophisticated, production-ready platform that enables medical students and practitioners to practice therapeutic skills with AI-powered personas. Built with enterprise-grade architecture, it demonstrates advanced full-stack development, real-time systems, AI/ML integration, and security best practices followed by AI practices.
+**Therapy AI** is a sophisticated, production-ready platform that enables medical students and practitioners to practice therapeutic skills with AI-powered personas. Built with enterprise-grade architecture, it demonstrates advanced full-stack development, real-time systems, AI/ML integration, and security best practices.
 
 ### Key Highlights
 
